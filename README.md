@@ -1,6 +1,6 @@
-![ASTEROIDS](https://github.com/dfilitto/GDevelopAsteroids/blob/main/Construindo%20o%20jogo%20ASTEROIDS.jpg)
+![ASTEROIDS](https://github.com/dfilitto/UnityZoltar/blob/main/Zoltar.jpg)
 
-# ZOLTAR
+# 
 
 Que tal descobrir qual é seu futuro!!!! Então não perca tempo e pergunte para o nosso mago. 
 
