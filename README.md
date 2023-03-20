@@ -7,3 +7,8 @@ Que tal descobrir qual é seu futuro!!!! Então não perca tempo e pergunte para
 Para quem não conhece, adivinhação é o ato ou esforço de predizer coisas distantes no tempo e no espaço, especialmente o resultado incerto das atividades humanas. 
 
 A adivinhação busca determinar o significado ou as causas ocultas dos acontecimentos, predizendo pensamentos ou sentimentos de outras pessoas, mudanças futuras em suas vidas, por meio de práticas variadas de consulta aos oráculos.
+
+## Links úteis
+Aprenda lógica de programação: https://www.youtube.com/playlist?list=PLfvOpw8k80WrnF-mlmxAiDGDD05U4ZLz-
+
+Aprenda programação orientada a objetos: https://www.youtube.com/playlist?list=PLfvOpw8k80Wreysmw8fonLCBw8kiiYjIU
